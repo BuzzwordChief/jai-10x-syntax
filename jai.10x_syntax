@@ -89,6 +89,7 @@ WORD(size_of)
 WORD(type_info)
 WORD(initializer_of)
 WORD(is_constant)
+WORD(then)
 
 Language.Operator:
 TEXT(.)
