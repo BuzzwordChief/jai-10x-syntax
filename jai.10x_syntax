@@ -58,6 +58,7 @@ TEXT(,)
 
 Language.Keyword:
 WORD(if)
+WORD(ifx)
 WORD(for)
 WORD(switch)
 WORD(void)
